@@ -117,6 +117,8 @@
 
 
 .title-decor {
+
+
     color: var(--subtitle-color, #000028);
     font-size: inherit;
     font-weight: 700;
@@ -249,6 +251,7 @@
     }
 
     .big-title {
+
         font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
     }
 
