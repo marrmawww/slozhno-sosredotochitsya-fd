@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\scripts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\tape.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\scripts\\script.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:script.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\sunset.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\street.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\mobile-icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\ice-cream.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\favicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\cover-image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\cover-image-light.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\cover-image-dark.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\books.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "variables.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\variables.css",
+              "RelativeDocumentMoniker": "..\\styles\\variables.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\variables.css",
+              "RelativeToolTip": "..\\styles\\variables.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-27T20:23:59.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\style.css",
+              "RelativeDocumentMoniker": "..\\styles\\style.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\style.css*",
+              "RelativeToolTip": "..\\styles\\style.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-27T20:23:59.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "light.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\light.css",
+              "RelativeDocumentMoniker": "..\\styles\\light.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\light.css",
+              "RelativeToolTip": "..\\styles\\light.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-27T20:23:59.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "globals.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\globals.css",
+              "RelativeDocumentMoniker": "..\\styles\\globals.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\globals.css",
+              "RelativeToolTip": "..\\styles\\globals.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-27T20:23:59.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dark.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\dark.css",
+              "RelativeDocumentMoniker": "..\\styles\\dark.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\styles\\dark.css",
+              "RelativeToolTip": "..\\styles\\dark.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-27T20:23:59.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tape.png",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\tape.png",
+              "RelativeDocumentMoniker": "..\\images\\tape.png",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\tape.png",
+              "RelativeToolTip": "..\\images\\tape.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-27T20:23:58.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sunset.png",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\sunset.png",
+              "RelativeDocumentMoniker": "..\\images\\sunset.png",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\sunset.png",
+              "RelativeToolTip": "..\\images\\sunset.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-27T20:23:57.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "street.png",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\street.png",
+              "RelativeDocumentMoniker": "..\\images\\street.png",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\street.png",
+              "RelativeToolTip": "..\\images\\street.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-27T20:23:56.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mobile-icon.png",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\mobile-icon.png",
+              "RelativeDocumentMoniker": "..\\images\\mobile-icon.png",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\mobile-icon.png",
+              "RelativeToolTip": "..\\images\\mobile-icon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-27T20:23:56.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\scripts\\script.js",
+              "RelativeDocumentMoniker": "script.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\scripts\\script.js",
+              "RelativeToolTip": "script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-27T20:23:42.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ice-cream.png",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\ice-cream.png",
+              "RelativeDocumentMoniker": "..\\images\\ice-cream.png",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\ice-cream.png",
+              "RelativeToolTip": "..\\images\\ice-cream.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-27T20:23:55.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "favicon.svg",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\favicon.svg",
+              "RelativeDocumentMoniker": "..\\images\\favicon.svg",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\favicon.svg",
+              "RelativeToolTip": "..\\images\\favicon.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-27T20:23:55.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\favicon.ico",
+              "RelativeDocumentMoniker": "..\\images\\favicon.ico",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "RelativeToolTip": "..\\images\\favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-10-27T20:23:54.412Z",
+              "EditorCaption": " - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cover-image.png",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\cover-image.png",
+              "RelativeDocumentMoniker": "..\\images\\cover-image.png",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\cover-image.png",
+              "RelativeToolTip": "..\\images\\cover-image.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-27T20:23:53.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cover-image-light.png",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\cover-image-light.png",
+              "RelativeDocumentMoniker": "..\\images\\cover-image-light.png",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\cover-image-light.png",
+              "RelativeToolTip": "..\\images\\cover-image-light.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-27T20:23:52.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "cover-image-dark.png",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\cover-image-dark.png",
+              "RelativeDocumentMoniker": "..\\images\\cover-image-dark.png",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\cover-image-dark.png",
+              "RelativeToolTip": "..\\images\\cover-image-dark.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-27T20:23:52.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "books.png",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\books.png",
+              "RelativeDocumentMoniker": "..\\images\\books.png",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\slozhno-sosredotochitsya-fd\\images\\books.png",
+              "RelativeToolTip": "..\\images\\books.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-27T20:23:50.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
